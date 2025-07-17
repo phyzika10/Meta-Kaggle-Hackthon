@@ -5,7 +5,7 @@ Predict the **popularity and leaderboard score** of Kaggle notebooks using metad
 
 ![notebooks](https://img.shields.io/badge/Meta--Kaggle--2025-Project-blue.svg)
 ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ---
 
@@ -17,7 +17,6 @@ Predict the **popularity and leaderboard score** of Kaggle notebooks using metad
 ├── notebook_popularity_analysis.ipynb  # Full modeling pipeline
 ├── notebook_predictions_production.csv # Exported predictions
 ├── README.md                           # Project overview
-├── LICENSE                             # License file
 ```
 
 ---
@@ -110,6 +109,3 @@ Thanks to the Kaggle community and the maintainers of the Meta-Kaggle dataset.
 
 ---
 
-## 📃 License
-
-This project is licensed under the MIT License.
